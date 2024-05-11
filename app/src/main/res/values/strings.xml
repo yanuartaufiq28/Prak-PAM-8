@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">list buku</string>
+    <string-array name="judul"/>
+    <string-array name="penulis"/>
+</resources>
